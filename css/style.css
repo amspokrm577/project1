@@ -11,6 +11,11 @@ main {
     padding-right: 10px;
     box-sizing: border-box;
     background-color: white;
+    font-family: serif;
+}
+
+h1, h2, h3, h4 {
+    font-family: sans-serif;
 }
 
 /* Add a black background color to the top navigation */
@@ -42,5 +47,6 @@ color: white;
 }
 
 img {
-    width: 100%;
+    width: 75%;
+    border: solid 3px black
 }
