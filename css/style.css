@@ -24,6 +24,10 @@ h1, h2, h3, h4 {
     font-family: sans-serif;
 }
 
+form {
+    position: relative;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
 background-color: #333;
