@@ -13,6 +13,11 @@ main {
     background-color: white;
     font-family: serif;
 }
+@media (max-width: 400px) {
+    main {
+      width: 100%;
+    }
+}
 
 h1, h2, h3, h4 {
     font-family: sans-serif;
